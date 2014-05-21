@@ -1,0 +1,45 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.ada-hidden {
+  position:absolute;
+  left:-10000px;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+}
+
+.sign-img {
+  display: none;
+  border-radius: 5px;
+}
+
+form {
+  margin-bottom: 10px;
+}
+
+label[for="submit"] {
+  display: block;
+}
+
+fieldset {
+  display: none;
+  border: none;
+}
+
+input {
+  margin-right: 10px;
+}
+
+#go-again {
+  display: none;
+}
+
+

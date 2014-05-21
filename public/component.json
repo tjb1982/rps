@@ -1,0 +1,16 @@
+{
+  "name": "taximagic",
+  "version": "0.0.1",
+  "dependencies": {
+    "visionmedia/superagent":"*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "js/main.js",
+  "scripts": [
+    "js/main.js"
+  ],
+  "styles": [
+    "css/style.css"
+  ]
+}
